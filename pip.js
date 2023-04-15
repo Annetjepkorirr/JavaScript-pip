@@ -14,6 +14,7 @@ console.log(sum)
 let arr6=[1,2,3,4];
 let arr7=[5,6,7,8];
 
+
 let x =0;
 for (let i = 0; i < arr6.length; i++) {
     x+=arr6[i]
@@ -38,3 +39,4 @@ while(i<22){
     i+=2
     console.log(i)
 }
+
